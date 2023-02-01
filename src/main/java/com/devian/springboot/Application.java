@@ -1,13 +1,10 @@
-package com.devian.sbootbackend;
-
+package com.devian.springboot;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
 @SpringBootApplication
-public class SbootBackendApplication {
-
+public class Application {
     public static void main(String[] args) {
-        SpringApplication.run(SbootBackendApplication.class, args);
+        SpringApplication.run(Application.class, args);
     }
 
 }
