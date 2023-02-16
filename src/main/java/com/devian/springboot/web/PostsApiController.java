@@ -1,6 +1,6 @@
 package com.devian.springboot.web;
 
-import com.devian.springboot.service.posts.PostsService;
+import com.devian.springboot.service.PostsService;
 import com.devian.springboot.web.dto.PostsResponseDto;
 import com.devian.springboot.web.dto.PostsSaveRequestDto;
 import com.devian.springboot.web.dto.PostsUpdateRequestDto;
