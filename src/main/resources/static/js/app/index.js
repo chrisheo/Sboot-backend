@@ -58,7 +58,9 @@ var main = {
         var id = $('#id').val();
 
         $.ajax({
+            //요청 타입 추가
             type: 'DELETE',
+            //path 추가
             url: '/api/v1/posts/'+id,
             dataType: 'json',
             contentType:'application/json; charset=utf-8'
