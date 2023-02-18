@@ -1,4 +1,4 @@
-package com.devian.springboot.service.posts;
+package com.devian.springboot.service;
 
 import com.devian.springboot.domain.posts.Posts;
 import com.devian.springboot.domain.posts.PostsRepository;
